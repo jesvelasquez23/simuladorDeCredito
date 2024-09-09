@@ -1,0 +1,190 @@
+html{
+    font-family: "Montserrat", sans-serif;
+}
+
+body{
+    margin: 0;
+    background-color: rgba(247, 245, 243, 0.81);
+}
+
+header{
+    width: 100%;
+    height: 64px;
+    background-color: #eb0029;
+    padding: 10px 10px 10px  ; 
+    display: flex;
+    justify-content: space-between; 
+    color: #fff;
+    align-items: center;
+    background-image: url(https://www.banorte.com/wps/contenthandler/banorte/!ut/p/digest!3gD4co9eGjOTD53uIBV5bA/dav/fs-type1/themes/BanorteResponsivoTheme/css/images/navigation.png);
+    background-size: 100px;
+    background-repeat: repeat-x;
+}
+
+
+.header article{
+    text-align: right;
+   
+}
+
+
+.bonarte{
+  width: 720px;
+  display: flex;
+  align-items: end;
+  padding: 0 ; 
+  
+  
+}
+
+.bonarte h1{
+    
+    margin: 0;
+}
+
+.logo{
+    /* clip-path: circle(35%); */
+    width: 50px;
+    display: flex;
+}
+
+
+.contacto{
+    
+    width: 400px;
+    
+}
+
+.search{
+    width: 30px;
+}
+
+.search{
+    clip-path: circle(50%);
+}
+
+
+.container-2{
+    background-color:#fefefe;
+    border: 0.1rem #f6f1f1 solid;
+    padding: 0 200px;
+    height: 30px;
+    display: flex;
+
+}
+.container-2 a{
+    color: #364552;
+    padding: 5px;
+}
+
+.container-2 a{
+    
+    
+}
+
+.inicio{
+    
+    border: 0 #f6f1f1 solid;
+    display: flex;
+    padding: 0 200px;
+    
+}
+
+.inicio p{
+    color: red;
+    
+    padding: 4px 0 0.5px ;
+}
+
+.p-inicio{
+    width: 100px;
+    color: red;
+    font-size: 20px;
+    
+}
+
+.container-img{
+    background-color:#fbfbfb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    height: 300px;
+}
+
+.container-img h2{
+    
+    color: #f00;
+    text-align: center;
+}
+
+.img-inicio{
+   
+    width: 500px;
+    
+}
+
+
+.container-aprende{
+    color: #f00;
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-aprende{
+    width:100px ;
+    border-radius: 0.9cm;
+    opacity: 0.1;
+    filter: brightness(5);
+    color: #f00;
+}
+
+.container-aprende h1{
+    font-size: 35px;
+}
+
+.container-img p{
+    font-size: 30px;
+}
+
+.product-container{
+    
+    width: 900px;
+    margin: 0 auto;
+    display: flex;
+    gap: 50px;
+    
+}
+
+.product-container article{
+    width: 400px;
+    margin: 0 auto;
+    
+}
+
+.product-container article h2{
+    font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
